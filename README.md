@@ -1,3 +1,12 @@
+<img src="https://github.com/EveNavarro/Enlazando-Componentes/blob/master/public/logo192.png"> 
+
+# :sparkles: Enlazando Componentes :sparkles: [pdf](https://github.com/EveNavarro/Enlazando-Componentes/blob/master/public/pdf/M09C04%20-%20Ejercitaci%C3%B3n%20-%20Enlazando%20los%20componentes%20de%20la%20aplicaci%C3%B3n.pdf)
+
+## Preview de la ejercitación
+
+<img src="https://github.com/EveNavarro/Enlazando-Componentes/blob/master/public/lastmovie.png">
+<img src="https://github.com/EveNavarro/Enlazando-Componentes/blob/master/public/not-found.png"> 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
